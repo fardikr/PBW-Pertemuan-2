@@ -1,0 +1,89 @@
+.row {
+    margin-top: 100px;
+}
+
+.btn-primary {
+    background-color: #545EE1;
+    border: 0;
+    border-radius: 4px;
+    padding: 8px 20px 8px 20px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.btn-primary hover {
+    background-color: #000fe2;
+    border: 0;
+    border-radius: 4px;
+}
+
+.hero h1 {
+    color: #545EE1;
+    font-weight: 700;
+}
+
+.col img {
+    margin-left: 300px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.service {
+    text-align: center;
+    padding: 40px;
+}
+
+.service h5 {
+    color: #545EE1;
+}
+
+.card {
+    padding: 20px;
+}
+
+.card-img-top {
+    width: 100px;
+    height: 100px;
+
+}
+
+.center {
+    text-align: center;
+}
+
+.center img {
+    margin-left: 0px;
+}
+
+.aboutme {
+    padding: 40px;
+    background-color: #F5F4F9;
+}
+
+.aboutme h1 {
+    color: #545EE1;
+    font-weight: 700;
+}
+
+.whyme h1 {
+    color: #545EE1;
+    font-weight: 700;
+}
+
+.footer {
+    background-color: #545EE1;
+    padding: 40px;
+}
+
+.footer h3 {
+    color: #F5F4F9;
+    text-align: center;
+}
+
+.btn-outline-primary {
+    border-color: #F5F4F9;
+    color: #F5F4F9;
+    font-weight: 500;
+}
